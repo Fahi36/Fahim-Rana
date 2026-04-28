@@ -1,0 +1,6 @@
+{
+  "name": "RANA AI: Code & Search",
+  "description": "A sophisticated AI companion specializing in architectural code generation and real-time generative search.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-powered code generation", "Real-time Google Search grounding"]
+}
